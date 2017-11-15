@@ -1,0 +1,8 @@
+NumeroDePrueba	Imagen	TiempoDeImagen
+0	advertisment.jpg	2006.45417069
+1	bikinishop.jpg	2006.32841645
+2	EyeLink_II.jpg	2007.39931305
+3	lecture.jpg	2007.15773255
+4	osdoc.jpg	2007.34603297
+5	sunset.jpg	2006.88934653
+6	vanunnik.jpg	2007.31393255

@@ -1,0 +1,4 @@
+Tipo de Prueba	Tiempo	Dato
+Bienvenido	2330.27803775
+EyeTracker	4219.55967208
+ending	23991.5677945
