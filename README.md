@@ -1,6 +1,4 @@
-# Python_Eyetracker_UR3
-Protocolo de comunicación en tiempo real, entre un eyetracker y un robot colaborativo Ur3, via Python.
+# Software de transmisión de gestos oculares a un robot colaborativo.
 
-Son dos archivos 7zip.
-Uno contiene todo el programa de python.
-El otro el programa de PolyScope para el robot.
+Software de comunicación en tiempo real, entre un eyetracker eyelink 1000 plus  y un robot colaborativo Ur3 de universal robots, via Python.
+
