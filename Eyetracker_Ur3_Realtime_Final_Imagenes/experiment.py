@@ -97,7 +97,7 @@ X = 0
 
 while elapsed < TRIALTIME and not key == 'space':
 	
-	#tracker.start_recording()	
+	tracker.start_recording()	
 	key, presstime = kb.get_key(timeout=1)
 	
 	#Cargamos archivos	
@@ -127,7 +127,6 @@ while elapsed < TRIALTIME and not key == 'space':
 	PosX = (PX_mm_X * (gazeposX * FactorX))
 	PosY = (PX_mm_Y * (gazeposY * FactorY))
 	
-	# ??
 	PosFinalTuple = (PosX/1000,PosY/1000)
 	
 	PosFinalSTR = str(PosFinalTuple)
